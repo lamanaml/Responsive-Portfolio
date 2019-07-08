@@ -1,0 +1,55 @@
+
+body {
+    background-image: url("../../images/tiles.png")
+}
+.head {
+   background-color: #4aaaa5;
+   color:#ffffff;
+   font-family: 'Georgia', Times, Times New Roman, serif;
+   padding:20px;
+   height:100%;
+}
+ .whitebg {
+        background-color: #ffffff;
+        height:100%;
+   }
+   .darkbg {
+        background-color: grey;
+   }
+   .dark1bg {
+        background-color: goldenrod;
+   }
+   .dark2bg {
+        background-color: orange;
+   }
+   img {
+       padding:10px 20px 10px 0px;
+       float:left;
+   }
+
+.rule {
+     border-bottom: 2px grey solid ;
+     
+}
+.card {
+     background-image: url(../../images/coding-825x500.jpg);
+     margin:15px;
+     padding:0px;
+     height:200px;
+     width: 15rem;
+     
+}
+
+.card-text {
+     background-color: #4aaaa5;
+     color:#ffffff;
+     font-family: 'Georgia', Times, Times New Roman, serif;
+     padding:5px;
+     margin-top:130px;
+   
+}
+
+.card-body {
+     padding:0px;
+     margin:0px;
+}
